@@ -1,0 +1,62 @@
+
+
+.payment-user-plans-check{
+    height: 300px;
+}
+
+.payment-user-plans-check span{
+    font-size: 14px;
+}
+
+.payment-user-plans-check div{
+    margin-bottom: 10px;
+    display: flex;
+}
+
+.payment-user-plans-check div{
+    margin-bottom: 5px;
+    display: flex;
+}
+
+.payment-user-plans-check svg{
+    margin-top: 4px;
+    margin-right: 10px;
+}
+
+.payment-user-plans h1{
+    width: 90%;
+    font-size: 13px;
+    padding: 7px;
+    border-radius: 5px;
+    background: rgb(46, 119, 208);
+    color: white;
+}
+.payment-user-plans h2{
+    width: 96%;
+    font-size: 13px;
+    padding: 7px;
+    border-radius: 5px;
+    background: rgb(255, 255, 255);
+    border: 1px solid rgb(46, 119, 208);
+    color:  rgb(46, 119, 208);
+    margin-bottom: 10px;
+}
+
+.payment-user-plans button{
+    padding: 7px;
+    border-color: rgb(29, 185, 84);
+    width: 100%;
+    border-radius: 25px;
+    background-color: rgb(29, 185, 84);
+}
+
+
+.payment-user-plans #syarat span{
+    font-size: 12px;
+    
+}
+
+.payment-user-plans #syarat span:nth-child(1){
+    font-size: 12px;
+    text-decoration: underline;
+}

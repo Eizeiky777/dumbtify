@@ -1,0 +1,29 @@
+.thumbnail{
+    width: 17%; 
+    background: #1DB954;
+    border-color: #1DB954;
+    cursor: pointer;
+}
+
+.thumbnail::placeholder {
+    color: white;
+}
+
+.thumbnail2{
+    width: 50%; 
+    background: #1DB954;
+    border-color: #1DB954;
+    cursor: pointer;
+    color: white;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+}
+
+.thumbnail2 svg{
+    font-size: 25px;
+    margin-right: 5px;
+    padding-bottom: 5px;
+}

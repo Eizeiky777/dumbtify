@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Spotify';
+    src: url(../beranda/data/Gotham-Font/GothamBold.ttf);
+}
+
+
+/* @font-face {
+    font-family: LoraItalic;
+    src: url(assets/Lora-Italic-VariableFont_wght.ttf);
+} */
+.dumbtify{
+    color:#1DB954; 
+    font-family: Spotify;
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: 3px;
+}

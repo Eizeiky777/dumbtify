@@ -1,0 +1,46 @@
+.list-musics{
+    text-align: center;
+    background: #1DB954;
+    margin-top: 20px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+}
+.list-musics img{
+    margin-bottom: 10px;
+    width: 130px;
+    height: 125px;
+    border: 1px solid white;
+    
+}
+
+.list-musics-description{
+    font-size: 12px;
+    padding: 5px;
+}
+
+.list-musics-description-buttons{
+    display: flex;
+    margin-top: 10px;
+}
+
+.list-musics-description-buttons button:nth-child(1){
+    width: 50%;
+    height: 25px;
+    font-size: 12px;
+    padding: 0;
+    margin-right: 5px;
+    background: #373434;
+    border-color:#373434;
+}
+
+.list-musics-description-buttons button:nth-child(2){
+    width: 50%;
+    height: 25px;
+    padding: 0;
+    font-size: 12px;
+    background: #980909;
+    border-color:#980909;
+}

@@ -1,0 +1,28 @@
+select {
+    color:#fff;
+}
+
+.list-customer{
+    font-size: 14px;
+}
+
+.list-customer-drop-down{
+    background-color: transparent;
+    border-color: transparent;
+    color: #1DB954; 
+}
+
+.list-customer-drop-down:hover{
+    background-color: transparent;
+    border-color: transparent;
+    color: #1DB954; 
+}
+
+.check-user{
+    width: 100%;
+}
+
+.check-user h6{
+    width: 25%;
+    text-align: right;
+}
